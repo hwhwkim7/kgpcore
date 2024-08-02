@@ -1,0 +1,6 @@
+Dataset: amazon
+Number of nodes: 2268231
+Number of edges: 4285363
+Average number of nodes per edge: 17.07
+Average Neighbor Size: 2673.81
+Average Degree: 32.25

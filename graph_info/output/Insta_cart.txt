@@ -1,0 +1,6 @@
+Dataset: Insta_cart
+Number of nodes: 49677
+Number of edges: 3346083
+Average number of nodes per edge: 10.11
+Average Neighbor Size: 1805.73
+Average Degree: 680.78

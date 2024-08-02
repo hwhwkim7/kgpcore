@@ -1,0 +1,6 @@
+Dataset: house_bills
+Number of nodes: 1494
+Number of edges: 60987
+Average number of nodes per edge: 20.47
+Average Neighbor Size: 664.10
+Average Degree: 835.79

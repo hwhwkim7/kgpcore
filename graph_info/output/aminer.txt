@@ -1,0 +1,6 @@
+Dataset: aminer
+Number of nodes: 27850748
+Number of edges: 17120546
+Average number of nodes per edge: 3.77
+Average Neighbor Size: 8.39
+Average Degree: 2.32

@@ -1,0 +1,6 @@
+Dataset: gowalla
+Number of nodes: 107092
+Number of edges: 1280969
+Average number of nodes per edge: 3.11
+Average Neighbor Size: 916.20
+Average Degree: 37.18

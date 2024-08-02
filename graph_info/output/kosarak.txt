@@ -1,0 +1,6 @@
+Dataset: kosarak
+Number of nodes: 41270
+Number of edges: 990002
+Average number of nodes per edge: 8.10
+Average Neighbor Size: 1604.18
+Average Degree: 194.31
