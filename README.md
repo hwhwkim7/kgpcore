@@ -32,6 +32,7 @@ Amazon : https://www.cs.cornell.edu/~arb/data/amazon-reviews/
 
 Instacart : https://www.cs.cornell.edu/~arb/data/uchoice-Instacart/
 
-Aminer : https://drive.google.com/file/d/12cvz-XtfQUbmj-gqlT9z4DKGMuhqLGjs/view (sourced from https://github.com/toggled/vldbsubmission)
+Aminer : https://github.com/toggled/vldbsubmission
+
 
 
