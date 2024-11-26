@@ -1,6 +1,6 @@
 # kgp-core
 This is the implementation of kgp-core algorithms, which is described in the following papaer:
-- Unveiling Introverted Cohesive Structures in Hypergraphs: The (𝑘,𝑔,𝑝)-core computation
+- Fraction-Based Cohesive Subgraphs Discovery in Hypergraphs
 
 ## How to use
 
