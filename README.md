@@ -1,4 +1,4 @@
-# kgp-core
+# (k,g,p)-core
 This is the implementation of kgp-core algorithms, which is described in the following papaer:
 - Beyond trivial edges: A fractional approach to cohesive subgraph detection in hypergraphs, KBS 2025.
 - https://www.sciencedirect.com/science/article/pii/S0950705125005180
