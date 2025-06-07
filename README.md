@@ -37,6 +37,7 @@ Aminer : https://www.github.com/toggled/vldbsubmission
 
 
 ### Cite
+```
 @article{kim2025beyond,
   title={Beyond trivial edges: A fractional approach to cohesive subgraph detection in hypergraphs},
   author={Kim, Hyewon and Shin, Woocheol and Kim, Dahee and Kim, Junghoon and Lim, Sungsu and Jeong, Hyun Ji},
@@ -45,3 +46,4 @@ Aminer : https://www.github.com/toggled/vldbsubmission
   year={2025},
   publisher={Elsevier}
 }
+```
