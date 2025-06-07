@@ -1,6 +1,7 @@
 # kgp-core
 This is the implementation of kgp-core algorithms, which is described in the following papaer:
-- Fraction-Based Cohesive Subgraphs Discovery in Hypergraphs
+- Beyond trivial edges: A fractional approach to cohesive subgraph detection in hypergraphs, KBS 2025.
+- https://www.sciencedirect.com/science/article/pii/S0950705125005180
 
 ## How to use
 
@@ -35,4 +36,12 @@ Instacart : https://www.cs.cornell.edu/~arb/data/uchoice-Instacart/
 Aminer : https://www.github.com/toggled/vldbsubmission
 
 
-
+### Cite
+@article{kim2025beyond,
+  title={Beyond trivial edges: A fractional approach to cohesive subgraph detection in hypergraphs},
+  author={Kim, Hyewon and Shin, Woocheol and Kim, Dahee and Kim, Junghoon and Lim, Sungsu and Jeong, Hyun Ji},
+  journal={Knowledge-Based Systems},
+  pages={113472},
+  year={2025},
+  publisher={Elsevier}
+}
